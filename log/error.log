@@ -1,0 +1,8 @@
+{"level":"error","message":"Server refused to connect to database with message: Server selection timed out after 2000 ms","timestamp":"2024-07-30T22:01:06.611Z"}
+{"level":"error","message":"Server refused to connect to database with message: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2024-08-10T01:37:25.099Z"}
+{"level":"error","message":"Server refused to connect to database with message: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2024-08-10T01:43:18.114Z"}
+{"level":"error","message":"Server refused to connect to database with message: Server selection timed out after 2000 ms","timestamp":"2024-09-07T11:20:03.991Z"}
+{"level":"error","message":"Server refused to connect to database with message: Server selection timed out after 2000 ms","timestamp":"2024-09-10T13:06:20.404Z"}
+{"level":"error","message":"Server refused to connect to database with message: Server selection timed out after 2000 ms","timestamp":"2024-09-12T04:49:06.581Z"}
+{"level":"error","message":"Server refused to connect to database with message: Server selection timed out after 2000 ms","timestamp":"2024-09-12T04:50:15.997Z"}
+{"level":"error","message":"Server refused to connect to database with message: Server selection timed out after 2000 ms","timestamp":"2024-09-15T13:31:08.662Z"}
